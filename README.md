@@ -1,4 +1,5 @@
-# 🧾 White Papers
+# 🧾 White Papers for startup idea
+
 
 A curated collection of technical white papers, research insights, and thought leadership pieces exploring emerging technologies, software architecture, and innovation.
 
